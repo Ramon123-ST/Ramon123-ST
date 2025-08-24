@@ -19,10 +19,6 @@
     <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    </div>  
-
-<div align="center">
- <img width="100%" src="https://raw.githubusercontent.com/professor-rafael/professor-rafael/output/snake.svg" alt="Snake animation" />
-</div>
    
    <div style="flex-basis: 48%;">
     <h3>Tools & Frameworks</h3>
@@ -38,7 +34,7 @@
 
 <!-- GIF -->
 <div align="center">
-  <img src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem" />
+ <img width="100%" src="https://raw.githubusercontent.com/professor-rafael/professor-rafael/output/snake.svg" alt="Snake animation" />
 </div>
 
 <!-- Faixa ondulada no rodapé -->
