@@ -26,16 +26,13 @@
     <img src="https://skillicons.dev/icons?i=github"align="center" height="30" width="40" alt="github logo"  />
   
    </div>
- 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=thank+you+for+your+attention!)](https://git.io/typing-svg)
 
-
-
-
-<!-- GIF -->
+   <!-- GIF -->
 <div align="center">
  <img width="100%" src="https://raw.githubusercontent.com/professor-rafael/professor-rafael/output/snake.svg" alt="Snake animation" />
 </div>
+ 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=thank+you+for+your+attention!)](https://git.io/typing-svg)
 
 <!-- Faixa ondulada no rodapé -->
 <div align="center">
