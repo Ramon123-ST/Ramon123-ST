@@ -24,7 +24,14 @@
     <h3>Tools & Frameworks</h3>
     <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
     <img src="https://skillicons.dev/icons?i=github"align="center" height="30" width="40" alt="github logo"  />
-  
+   </div>
+
+
+   <div style="flex-basis: 48%;">
+    <h3>Redes</h3>
+  <a href="https://www.linkedin.com/in/christian-ramon-8abba8361?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" height="40" alt="linkedin logo"  />
+</a>
    </div>
 
    <!-- GIF -->
